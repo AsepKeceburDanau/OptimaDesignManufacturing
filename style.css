@@ -1,0 +1,19 @@
+.img-BCA{
+    padding: 0px;
+    margin-top: 10px;
+  }
+  .Company{
+    padding: 30px;
+  }
+
+  .menu-icon {
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    background-color: tomato;
+  }
+
+@media screen and (min-width: 500px) {
+    
+    
+}
